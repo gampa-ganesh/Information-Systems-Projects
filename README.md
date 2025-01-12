@@ -14,9 +14,6 @@ The **DocLink Healthcare Appointment System** is a user-friendly platform that c
 - **Database**: MySQL
 - **Other Tools**: ERD and DFD for system design
 
-## Documentation
-Detailed project documentation is available here: [Project Documentation](documentation/Final%20Project%20Documentation.pdf)
-
 ## Getting Started
 1. Clone the repository:
    ```bash
