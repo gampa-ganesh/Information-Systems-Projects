@@ -15,7 +15,7 @@ The **DocLink Healthcare Appointment System** is a user-friendly platform that c
 - **Other Tools**: ERD and DFD for system design
 
 ## Documentation
-Detailed project documentation is available here: [Project Documentation](documentation/Project_Documentation.pdf).
+Detailed project documentation is available here: [Project Documentation](Final Project Documentation.pdf).
 
 ## Getting Started
 1. Clone the repository:
